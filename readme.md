@@ -1,0 +1,1 @@
+This is just a typical grocery list maker. Testin vanilla javascript.
